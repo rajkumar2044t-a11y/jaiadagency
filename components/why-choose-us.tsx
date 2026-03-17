@@ -76,7 +76,7 @@ export default function WhyChooseUs() {
             rel="noopener noreferrer"
             className="inline-block px-6 md:px-8 py-3 md:py-4 bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white font-bold rounded-lg transition-all duration-200 shadow-lg hover:shadow-purple-500/50 hover:shadow-2xl text-sm md:text-base"
           >
-            Get Started Today
+            Join Telegram Channel
           </a>
         </div>
       </div>

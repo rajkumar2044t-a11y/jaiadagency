@@ -29,12 +29,12 @@ export default function HeroSection({ onViewResults }: { onViewResults: () => vo
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-3 md:gap-4 justify-center pt-4 md:pt-8">
             <a 
-              href="https://t.me/money_055" 
+              href="https://t.me/+CSE5r3yzs8plYWI1" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-6 md:px-8 py-3 md:py-4 bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-700 hover:to-purple-800 text-white font-bold rounded-lg transition-all duration-200 shadow-lg hover:shadow-purple-500/50 hover:shadow-2xl text-center text-sm md:text-base"
             >
-              Join Telegram
+              Join Telegram channel
             </a>
             <button 
               onClick={onViewResults}

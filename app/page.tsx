@@ -9,7 +9,6 @@ import PaymentTermsSection from '@/components/payment-terms';
 import ProofsSection from '@/components/proofs-section';
 import FinalCTA from '@/components/final-cta';
 import ImageModal from '@/components/image-modal';
-import HubSpotForm from '@/components/hubspot-form';
 
 export default function Home() {
   const [isProofsOpen, setIsProofsOpen] = useState(false);
@@ -43,7 +42,6 @@ export default function Home() {
           setCurrentProofIndex(index >= 0 ? index : 0);
           setIsProofsOpen(true);
         }} />
-        <HubSpotForm />
         <FinalCTA />
       </main>
       
